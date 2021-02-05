@@ -1,0 +1,6 @@
+module Pods_reaApp_reaAppTests {
+  umbrella header "Pods-reaApp-reaAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
